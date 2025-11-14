@@ -1,0 +1,10 @@
+export const student = require('../Assets/Images/student.png');
+export const performance = require('../Assets/Images/performance.png');
+export const task = require('../Assets/Images/task.png');
+export const attendance = require('../Assets/Images/attendance.png');
+export const leave = require('../Assets/Images/leave.png');
+export const fees = require('../Assets/Images/fees.png');
+export const students = require('../Assets/Images/students.png');
+export const computeruser = require('../Assets/Images/computeruser.png');
+export const more = require('../Assets/Images/more.png');
+export const university = require('../Assets/Images/university.jpg');

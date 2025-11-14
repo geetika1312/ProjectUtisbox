@@ -1,0 +1,55 @@
+{
+  "name": "utisbox",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "lint": "eslint .",
+    "start": "react-native start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@react-navigation/native": "^7.1.19",
+    "@react-navigation/native-stack": "^7.6.2",
+    "fbjs": "^3.0.5",
+    "native-base": "^3.4.28",
+    "react": "19.2.0",
+    "react-native": "0.82.1",
+    "react-native-check-box": "^2.1.7",
+    "react-native-element-dropdown": "^2.12.4",
+    "react-native-otp-textinput": "^1.1.7",
+    "react-native-snap-carousel": "^3.9.1",
+    "react-native-tab-view": "^4.2.0",
+    "react-redux": "^9.2.0",
+    "redux": "^5.0.1",
+    "redux-logger": "^3.0.6",
+    "redux-saga": "^1.4.2",
+    "seamless-immutable": "^7.1.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.28.5",
+    "@babel/preset-env": "^7.28.5",
+    "@babel/runtime": "^7.28.4",
+    "@react-native-community/cli": "^20.0.2",
+    "@react-native/babel-preset": "0.82.1",
+    "@react-native/codegen": "0.82.1",
+    "@react-native/eslint-config": "0.82.1",
+    "@react-native/metro-config": "0.82.1",
+    "@react-native/typescript-config": "0.82.1",
+    "@types/react": "^19.2.4",
+    "@types/react-native": "^0.73.0",
+    "@types/react-test-renderer": "^19.1.0",
+    "babel-jest": "^30.2.0",
+    "eslint": "^9.39.1",
+    "jest": "^30.2.0",
+    "prettier": "3.6.2",
+    "react-dom": "^19.2.0",
+    "react-native-svg": "^15.15.0",
+    "react-test-renderer": "19.2.0",
+    "typescript": "5.9.3"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
